@@ -6,7 +6,7 @@
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif">
 
 
-- 👨‍💻 All of my projects are available at [http://raashid.cf/](http://raashid.gq/)
+- 👨‍💻 All of my projects are available at [http://raashid.cf/](http://raashid.cf/)
 
 - 📫 How to reach me **mdraashidit@gmail.com**
 
