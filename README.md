@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Raashid</h1>
 <h3 align="center">A passionate Backend developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/WTjXuYA2y4o3UZly3W/giphy.gif">
+
 - 👨‍💻 All of my projects are available at [http://raashid.gq/](http://raashid.gq/)
 
 - 📫 How to reach me **mdraashidit@gmail.com**
