@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Raashid</h1>
 <h3 align="center">A passionate Backend developer from India</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=khushboogoel01&label=Profile%20views&color=129e00&style=plastic" alt="khushboogoel01" /> </p>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
+
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif">
 
 
 - 👨‍💻 All of my projects are available at [http://raashid.gq/](http://raashid.gq/)
