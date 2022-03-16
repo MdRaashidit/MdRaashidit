@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Raashid</h1>
-<h3 align="center">A passionate Backend developer from India</h3>
-<h5 align="left">I am a final year student at NIST, Berhampur, pursuing my Bachelors in Information Technology.</h5>
+<h3 align="center">A passionate MERN STACK developer from India</h3>
 <h5>And also an optimisitic, curious and well-focused developer.✨</h5>
 
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif">
